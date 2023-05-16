@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 4114R-2-103LF
+D Bourns Bussed Resistor Network 10000 +/-2% 7 Resistors, 2W Total, DIP Package 4100R Through Hole
+K
+F http://www.bourns.com/pdfs/4100R.pdf
+$ENDCMP
+#
+#End Doc Library

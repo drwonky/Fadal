@@ -1,0 +1,37 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model 4114R-2-103LF
+#/388991/1137137/2.50/14/4/Resistor Network
+DEF 4114R-2-103LF RN 0 30 Y Y 1 F N
+F0 "RN" 750 300 50 H V L CNN
+F1 "4114R-2-103LF" 750 200 50 H V L CNN
+F2 "DIP787W49P254L1943H469Q14N" 750 100 50 H I L CNN
+F3 "http://www.bourns.com/pdfs/4100R.pdf" 750 0 50 H I L CNN
+F4 "Bourns Bussed Resistor Network 10000 +/-2% 7 Resistors, 2W Total, DIP Package 4100R Through Hole" 750 -100 50 H I L CNN "Description"
+F5 "4.69" 750 -200 50 H I L CNN "Height"
+F6 "Bourns" 750 -300 50 H I L CNN "Manufacturer_Name"
+F7 "4114R-2-103LF" 750 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "652-4114R-2LF-10K" 750 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Bourns/4114R-2-103LF?qs=QXsCy0sQn1AJfcIYugd82Q%3D%3D" 750 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "4114R-2-103LF" 750 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/4114r-2-103lf/bourns" 750 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X 1 1 0 0 200 R 50 50 0 0 P
+X 2 2 0 -100 200 R 50 50 0 0 P
+X 3 3 0 -200 200 R 50 50 0 0 P
+X 4 4 0 -300 200 R 50 50 0 0 P
+X 5 5 0 -400 200 R 50 50 0 0 P
+X 6 6 0 -500 200 R 50 50 0 0 P
+X 7 7 0 -600 200 R 50 50 0 0 P
+X 14 14 900 0 200 L 50 50 0 0 P
+X 13 13 900 -100 200 L 50 50 0 0 P
+X 12 12 900 -200 200 L 50 50 0 0 P
+X 11 11 900 -300 200 L 50 50 0 0 P
+X 10 10 900 -400 200 L 50 50 0 0 P
+X 9 9 900 -500 200 L 50 50 0 0 P
+X 8 8 900 -600 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 700 100 700 -700 200 -700 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

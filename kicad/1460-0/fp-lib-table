@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "S100")(type "Eagle")(uri "/home/username/git/Fadal/eagle/s100.lbr")(options "")(descr ""))
+)
